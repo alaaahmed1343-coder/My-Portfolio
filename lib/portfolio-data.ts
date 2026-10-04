@@ -27,9 +27,16 @@ export const profile = {
   role: 'Front-End Web Developer',
   headline:
     'Building responsive, interactive, and user-focused web experiences with React and modern web technologies.',
-  about:
-    'Front-End Developer and Computer Science student at Sohag University, focused on building responsive, interactive, and user-friendly web applications. Experienced with React, JavaScript, TypeScript, and modern UI development, with hands-on training through DEPI, ITI, and NTI.',
-  email: 'Alaaahmed1343@gmail.com',
+  about: `
+I’m a Front-End Developer passionate about building responsive, user-friendly, and engaging web experiences. I enjoy turning ideas into functional interfaces and continuously developing my skills through hands-on projects.
+
+I built my programming foundation through Software Development Fundamentals, gaining knowledge in C, C++, OOP, Algorithms, and Data Structures, which strengthened my problem-solving skills.
+
+I then expanded into web development through the Web Designer program at NTI, where I worked with HTML5, CSS3, JavaScript, and Bootstrap.
+
+Currently, I’m developing my skills through the Digital Egypt Pioneers Initiative (DEPI) in the React Frontend Web Developer track, where I’m learning React, TypeScript, Git & GitHub, Node.js, Express, Docker, and modern development practices.
+`,
+    email: 'Alaaahmed1343@gmail.com',
   phone: '01015319472',
   location: 'Sohag, Egypt',
   linkedin: 'https://www.linkedin.com/in/alaa-frontend',
